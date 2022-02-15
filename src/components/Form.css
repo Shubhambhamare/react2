@@ -1,0 +1,66 @@
+label {
+    padding-left: 100px;
+    font-size: larger;
+}
+.form {
+    margin-left: 32%;
+}
+
+h1 {
+    padding-top: 2%;
+    margin-left: 7%;
+}
+
+input{
+    margin-top: 45;
+    border-radius: 30px;
+    background-color: rgb(82, 194, 223);
+    height: 40px;
+    width: 255px;
+    border: 2px solid black;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.input1 {
+    margin-left: 55px;
+}
+
+.inputFrom {
+    margin-left: 55px;
+}
+
+button {
+    margin-top: 40px;
+    background-color: aqua;
+    height: 40px;
+    width: 155px;
+    border: 2px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 7%;
+}
+
+
+.Container_1{
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+    background: radial-gradient(rgb(219, 191, 208), rgb(88, 170, 190), rgb(113, 179, 199));
+    margin-left: 25%;
+    width: 60%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border: 2px solid black;
+}
+
+.Container_2 {
+    background-color: rgb(182, 142, 170);
+    border: 2px solid rgb(175, 80, 136);
+    margin: 1%;
+    width: 45%;
+    height: 55px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 12px;
+}
